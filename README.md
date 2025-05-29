@@ -30,8 +30,7 @@ An Agno agentic system that provides expert software architecture analysis and r
 1. **Setup Environment**
    ```bash
    # Clone the repository
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-   cd awesome-llm-apps/ai_agent_tutorials/ai_system_architect_r1
+   git clone https://github.com/the-developer-306/Architex
    
    # Install dependencies
    pip install -r requirements.txt
@@ -43,7 +42,7 @@ An Agno agentic system that provides expert software architecture analysis and r
 
 3. **Run the Application**
    ```bash
-   streamlit run ai_system_architect_r1.py
+   streamlit run agentic_AI_software_arch_analyzer.py
    ```
 
 4. **Use the Interface**
